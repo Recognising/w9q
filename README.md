@@ -1,4 +1,4 @@
-am xmr
+am @Noticing
 
 Finna bot my views again
 
